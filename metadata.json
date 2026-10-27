@@ -1,0 +1,6 @@
+{
+  "name": "Pre-training vs Fine-tuning Experiment Lab",
+  "description": "Interactive educational experiment comparing small model performance before and after task-specific fine-tuning, demonstrating transfer learning, architectural adaptation, and predictive metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
